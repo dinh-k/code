@@ -1,1 +1,1 @@
-
+Cyclic Difference Sets (CDS): A study of cyclic difference sets derived from non-zero squares modulo integers, combining theoretical proofs and MATLAB computations. Explores conditions for CDS properties, revealing key relationships in modular arithmetic with applications in cryptography and coding theory. Includes theorems, conjectures, and computational insights into modular structures.
