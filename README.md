@@ -5,7 +5,7 @@ Collection of math laboratory reports with a touch of data science, for self-lea
 
 ## Contents
 **Name math/data skill used that I want to highlight (can combine multiple projects into 1 skill**
-- [Cyclic Difference Sets](cyclic-difference-sets/cyclic-difference-sets.pdf): A study of cyclic difference sets derived from non-zero squares modulo integers, combining theoretical proofs and MATLAB computations. Explores conditions for CDS properties, revealing key relationships in modular arithmetic with applications in cryptography and coding theory. Includes theorems, conjectures, and computational insights into modular structures.
+- [Cyclic Difference Sets](cyclic-difference-sets/cyclic-difference-sets.pdf): A study of cyclic difference sets derived from non-zero squares modulo integers, combining theoretical proofs and MATLAB computations. Reveals conditions for CDS properties and computational insights into modular structures.
 
 **Name math/data skill used that I want to highlight (can combine multiple projects into 1 skill**
 - [Chromatic Polynomials and Graph Coloring](chromatic-polynomials-and-graph-coloring/chromatic-polynomials-birkhoff-lewis-method.pdf): An exploration of chromatic polynomials in graph theory, leveraging the Birkhoff-Lewis Reduction Algorithm. Includes derivations for paths, cycles, and complete graphs using combinatorial reasoning and mathematical induction. Discusses the relationship between graph structure and colorability, with applications in scheduling and optimization.
