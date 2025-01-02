@@ -1,5 +1,5 @@
 # Mathematical Experimentation
-Collection of mathematical laboratory reports with a touch of data science, for self-learning and class assignments.
+Collection of math laboratory reports with a touch of data science, for self-learning and class assignments.
 
 *Primary tools:*
 
