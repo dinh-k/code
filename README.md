@@ -1,7 +1,7 @@
 # Mathematical Experimentation
 Collection of math laboratory reports with a touch of data science, for self-learning and class assignments.
 
-*Primary tools: MATLAB built-in functions and [SVDCompressor](svd-in-image-compression/+SVDCompressor).*
+*Primary tools: MATLAB built-in functions, Desmos.*
 
 ## Contents
 **Image Compression and Linear Algebra**
