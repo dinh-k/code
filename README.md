@@ -5,7 +5,7 @@ Collection of math laboratory reports with a touch of data science, for self-lea
 
 ## Contents
 **Name math/data skill used that I want to highlight (can combine multiple projects into 1 skill**
-- [Singular Value Decomposition in Image Compression](): 
+- [Image Compression Using Singular Value Decomposition](): A set of experiments that demonstrates the application of SVD for image compression and analysis. The project includes mathematical foundations, exploratory experiments, and visualizations to evaluate compression performance across various scenarios, including noise sensitivity, color space conversion, and low-rank approximations.
 
 **Name math/data skill used that I want to highlight (can combine multiple projects into 1 skill**
 - [Cyclic Difference Sets](cyclic-difference-sets/cyclic-difference-sets.pdf): A study of cyclic difference sets derived from non-zero squares modulo integers, combining theoretical proofs and MATLAB computations. Reveals conditions for CDS properties and computational insights into modular structures.
